@@ -1,0 +1,16 @@
+"filename", "language", "pip requirements", "Python", "Markdown", "HTML", "comment", "blank", "total"
+"e:\Homework\操作系统课设\final\src\README.md", "Markdown", 0, 0, 0, 0, 0, 1, 1
+"e:\Homework\操作系统课设\final\src\build\main\xref-main.html", "HTML", 0, 0, 0, 11693, 0, 2306, 13999
+"e:\Homework\操作系统课设\final\src\main.py", "Python", 0, 6, 0, 0, 0, 2, 8
+"e:\Homework\操作系统课设\final\src\operate_system\__init__.py", "Python", 0, 0, 0, 0, 0, 1, 1
+"e:\Homework\操作系统课设\final\src\operate_system\__os.py", "Python", 0, 82, 0, 0, 49, 31, 162
+"e:\Homework\操作系统课设\final\src\operate_system\__pcb.py", "Python", 0, 64, 0, 0, 33, 15, 112
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\__init__.py", "Python", 0, 0, 0, 0, 8, 2, 10
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\fcfs.py", "Python", 0, 12, 0, 0, 7, 8, 27
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\hrrn.py", "Python", 0, 15, 0, 0, 5, 8, 28
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\inout.py", "Python", 0, 18, 0, 0, 7, 9, 34
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\rr.py", "Python", 0, 14, 0, 0, 9, 8, 31
+"e:\Homework\操作系统课设\final\src\operate_system\algorithm\sjf.py", "Python", 0, 13, 0, 0, 6, 8, 27
+"e:\Homework\操作系统课设\final\src\operate_system\ui.py", "Python", 0, 218, 0, 0, 72, 89, 379
+"e:\Homework\操作系统课设\final\src\requirements.txt", "pip requirements", 17, 0, 0, 0, 0, 0, 17
+"Total", "-", 17, 442, 0, 11693, 196, 2488, 14836

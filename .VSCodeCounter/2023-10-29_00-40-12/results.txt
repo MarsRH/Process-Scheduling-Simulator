@@ -1,0 +1,47 @@
+Date : 2023-10-29 00:40:12
+Directory : e:\Homework\操作系统课设\final\src
+Total : 14 files,  12152 codes, 196 comments, 2488 blanks, all 14836 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| HTML             |          1 |     11,693 |          0 |      2,306 |     13,999 |
+| Python           |         11 |        442 |        196 |        181 |        819 |
+| pip requirements |          1 |         17 |          0 |          0 |         17 |
+| Markdown         |          1 |          0 |          0 |          1 |          1 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                 |         14 |     12,152 |        196 |      2,488 |     14,836 |
+| . (Files)                                                         |          3 |         23 |          0 |          3 |         26 |
+| build                                                             |          1 |     11,693 |          0 |      2,306 |     13,999 |
+| build\main                                                        |          1 |     11,693 |          0 |      2,306 |     13,999 |
+| operate_system                                                    |         10 |        436 |        196 |        179 |        811 |
+| operate_system (Files)                                            |          4 |        364 |        154 |        136 |        654 |
+| operate_system\algorithm                                          |          6 |         72 |         42 |         43 |        157 |
++-------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                          | language         | code       | comment    | blank      | total      |
++-------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| e:\Homework\操作系统课设\final\src\README.md                            | Markdown         |          0 |          0 |          1 |          1 |
+| e:\Homework\操作系统课设\final\src\build\main\xref-main.html            | HTML             |     11,693 |          0 |      2,306 |     13,999 |
+| e:\Homework\操作系统课设\final\src\main.py                              | Python           |          6 |          0 |          2 |          8 |
+| e:\Homework\操作系统课设\final\src\operate_system\__init__.py           | Python           |          0 |          0 |          1 |          1 |
+| e:\Homework\操作系统课设\final\src\operate_system\__os.py               | Python           |         82 |         49 |         31 |        162 |
+| e:\Homework\操作系统课设\final\src\operate_system\__pcb.py              | Python           |         64 |         33 |         15 |        112 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\__init__.py | Python           |          0 |          8 |          2 |         10 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\fcfs.py     | Python           |         12 |          7 |          8 |         27 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\hrrn.py     | Python           |         15 |          5 |          8 |         28 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\inout.py    | Python           |         18 |          7 |          9 |         34 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\rr.py       | Python           |         14 |          9 |          8 |         31 |
+| e:\Homework\操作系统课设\final\src\operate_system\algorithm\sjf.py      | Python           |         13 |          6 |          8 |         27 |
+| e:\Homework\操作系统课设\final\src\operate_system\ui.py                 | Python           |        218 |         72 |         89 |        379 |
+| e:\Homework\操作系统课设\final\src\requirements.txt                     | pip requirements |         17 |          0 |          0 |         17 |
+| Total                                                             |                  |     12,152 |        196 |      2,488 |     14,836 |
++-------------------------------------------------------------------+------------------+------------+------------+------------+------------+
